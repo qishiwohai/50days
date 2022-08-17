@@ -141,7 +141,8 @@ nav .container {
 
 #projects>div {
     position: relative;
-    height: 80%;
+    width: 100%;
+    aspect-ratio: 379/276;
 }
 
 .day {
